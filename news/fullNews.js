@@ -99,6 +99,101 @@ let newsList = [
         mainImage: "./news/20/mainImage.jpg",
         text: '"Sifatli ta\'lim – taraqqiyot kafolati" - Sherzod G\'ofurov',
         date: '19.02.2023' 
+    },
+    {
+        mainImage: "./news/21/mainImage.jpg",
+        text: '“Gulliverning sayohatlari” asari yuzasidan Zakovat intelektual o‘yini o‘tkazildi',
+        date: '21.02.2023' 
+    },
+    {
+        mainImage: "./news/22/mainImage.jpg",
+        text: '"Pazanda qizlar" to\'garagi o\'z faoliyatini boshladi',
+        date: '21.02.2023' 
+    },
+    {
+        mainImage: "./news/23/mainImage.jpg",
+        text: '"Beruniy izdoshlari" mavzusida tadbir tashkillashtirildi',
+        date: '22.02.2023' 
+    },
+    {
+        mainImage: "./news/24/mainImage.jpg",
+        text: '"Qor parchasi" trening mashg\'uloti o\'tkazildi',
+        date: '22.02.2023' 
+    },
+    {
+        mainImage: "./news/25/mainImage.jpg",
+        text: 'Ma\'naviyat sarchashmalari " mavzusida tadbir tashkil qilindi',
+        date: '23.02.2023' 
+    },
+    {
+        mainImage: "./news/26/mainImage.jpg",
+        text: '“Yosh ijodkorlar” to‘garagi a’zolarining navbatdagi dars mashg‘uloti bo‘lib o‘tdi',
+        date: '24.02.2023' 
+    },
+    {
+        mainImage: "./news/27/mainImage.jpg",
+        text: 'Ertalabki badantarbiya mashğuloti jarayonidan lavhalar',
+        date: '28.02.2023' 
+    },
+    {
+        mainImage: "./news/28/mainImage.jpg",
+        text: '"Yo\'l qoidasi - umr foydasi" mavzusida tadbir bo\lib o\'tdi',
+        date: '28.02.2023' 
+    },
+    {
+        mainImage: "./news/29/mainImage.jpg",
+        text: 'Zulfiya Isroilova tavalludining 108 yilligiga davra suhbati',
+        date: '28.02.2023' 
+    },
+    {
+        mainImage: "./news/30/mainImage.jpg",
+        text: 'Mahalla raisi va yong\'in xavfsizligi xodimi bilan hamkorlikda targ\'ibot tadbiri o\'tkazildi',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/31/mainImage.jpg",
+        text: '"Yo\'l qoidasi - umr foydasi" mavzularida suhbat va tushuntirish ishlari olib borildi ',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/32/mainImage.jpg",
+        text: '2-sinf o\'quvchilari ishtirokida o\'tkazilgan "Quvnoq startlar"  sport  musobaqasidan fotolavhalar',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/33/mainImage.jpg",
+        text: '"Sabzavotlar nima deydi" mavzusida ochiq dars bo\'lib o\'tdi',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/34/mainImage.jpg",
+        text: '"Bahor keldi seni so\'roqlab" mavzusida  ma\'naviy, ma\'rifiy tadbir tashkil qilindi',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/35/mainImage.jpg",
+        text: '"Zulfiyaxonim-vafo va sadoqat timsoli" mavzusidagi zakovat oʻyinidan lavhalar',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/36/mainImage.jpg",
+        text: '8-sinf o\'quvchilari bilan \"Zakovat\"intellektual o\'yini o\'tkazildi',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/37/mainImage.jpg",
+        text: '"Bahor keldi seni so\'roqlab" mavzusida o\'tkazilgan rasmlar tanlovi g\'oliblari aniqlandi',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/38/mainImage.jpg",
+        text: '"Xush kelding, o\'lkamga bahor" nomli tadbir o\'tkazildi',
+        date: '3.03.2023' 
+    },
+    {
+        mainImage: "./news/39/mainImage.jpg",
+        text: 'H.Olimjonning “Oygul bilan Baxtiyor” ertak-dostoni yuzasidan Zakovat  o‘yini o‘tkazildi',
+        date: '11.03.2023' 
     }
 ]
 
